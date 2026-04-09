@@ -5,3 +5,4 @@ This project follows the RPE Standard. For more information, see [AGENTS.md](AGE
 
 ## Foundations
 The project is built upon the research documented in [DENIAL_PROTOCOL.md](DENIAL_PROTOCOL.md).
+- [GRADIENT_RESOLUTION_MECHANICS.md](GRADIENT_RESOLUTION_MECHANICS.md)
